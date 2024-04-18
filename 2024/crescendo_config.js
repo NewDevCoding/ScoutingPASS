@@ -93,7 +93,7 @@ var config_data = `
       "code": "ta",
       "type": "counter"
     },
-    { "name": "Times Amplified",
+    { "name": "Notes Rabbited",
       "code": "tta",
       "type": "counter"
     },
